@@ -1,0 +1,16 @@
+DRC Rules Export File for PCB: C:\ProgramData\Altium\CircuitMaker {B290CD2C-9192-4408-BB5D-94F269EF736B}\Projects\63B1A7D3-BDED-47AD-AABF-D6275C231635\3f2929ca-9131-4f9e-a5e4-9bba68f75e1c\PCB.CMPcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_ADCPairs|Scope=Board|Minimum=15.00
+RuleKind=Clearance|RuleName=Clearance_DDR_Data_Byte0|Scope=Board|Minimum=6.46
+RuleKind=Clearance|RuleName=Clearance_DDR_Address|Scope=Board|Minimum=6.50
+RuleKind=Width|RuleName=Width_DDR_Data_Byte0|Scope=Board|Minimum=5.12
+RuleKind=Clearance|RuleName=Clearance_To_Poly|Scope=Board|Minimum=7.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=4.90
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.80
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.50
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width_DDR_Address|Scope=Board|Minimum=5.12
+RuleKind=Clearance|RuleName=Clearance_DDR_Address_to_Data|Scope=Board|Minimum=6.50
+RuleKind=Clearance|RuleName=Clearance_DDR_Data_Byte1|Scope=Board|Minimum=6.46
+RuleKind=Width|RuleName=Width_DDR_Data_Byte1|Scope=Board|Minimum=5.12

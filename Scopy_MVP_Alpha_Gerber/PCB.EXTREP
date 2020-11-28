@@ -1,0 +1,32 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: PCB.GBR   08/09/2019  21:52:02
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTL                Top Signal                              
+.GP1                GND A                                   
+.G1                 Inner SubPower + Signal                 
+.G2                 Inner Power + Signal                    
+.GP2                GND B                                   
+.GBL                Bottom Signal                           
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTS                Top Solder                              
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.Outline            Mechanical 1                            
+.Dimensions         Mechanical 2                            
+.GM4                Mechanical 4                            
+.Assembly Text Top  Mechanical 6                            
+.Assembly Top       Mechanical 8                            
+.Dimensions Top     Mechanical 11                           
+.3D Top             Mechanical 13                           
+.3D Bottom          Mechanical 14                           
+.Courtyard Top      Mechanical 15                           
+.Courtyard Bottom   Mechanical 16                           
+.GM29               Mechanical 29                           
+------------------------------------------------------------------------------------------

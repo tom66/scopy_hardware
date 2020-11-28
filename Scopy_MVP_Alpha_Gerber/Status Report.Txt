@@ -1,0 +1,35 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Scopy_MVP_Alpha.PrjPcb]
+   Generated File[PCB.GTL]
+   Generated File[PCB.GP1]
+   Generated File[PCB.G1]
+   Generated File[PCB.G2]
+   Generated File[PCB.GP2]
+   Generated File[PCB.GBL]
+   Generated File[PCB.GTO]
+   Generated File[PCB.GTP]
+   Generated File[PCB.GTS]
+   Generated File[PCB.GBS]
+   Generated File[PCB.GBP]
+   Generated File[PCB.GBO]
+   Generated File[PCB.Outline]
+   Generated File[PCB.Dimensions]
+   Generated File[PCB.GM4]
+   Generated File[PCB.Assembly Text Top]
+   Generated File[PCB.Assembly Top]
+   Generated File[PCB.Dimensions Top]
+   Generated File[PCB.3D Top]
+   Generated File[PCB.3D Bottom]
+   Generated File[PCB.Courtyard Top]
+   Generated File[PCB.Courtyard Bottom]
+   Generated File[PCB.GM29]
+   Generated File[PCB.RUL]
+   Generated File[PCB.EXTREP]
+   Generated File[PCB.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 21:52:07 On 08/09/2019
