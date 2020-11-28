@@ -1,6 +1,6 @@
 ## Scopy "MVP" Hardware ##
 
-In this repository are the schematic files for Scopy MVP.
+In this repository are the schematic, STEP files and Gerbers for Scopy MVP.
 
 There are some errors in the initial design that require correction,  but the majority of the design works quite well.  This is very much a prototype, so don't expect fully working hardware or a perfect build.
 
