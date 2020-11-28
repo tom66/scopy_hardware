@@ -7,4 +7,5 @@ There are some errors in the initial design that require correction,  but the ma
 See the related repositories under the 'scopy' tag here:
 
 https://github.com/tom66/scopy-fpga
+
 https://github.com/tom66/scopeapp
